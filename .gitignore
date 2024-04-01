@@ -1,0 +1,39 @@
+# Python/Flask
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+*.pyo
+instance/
+*.log
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Android Studio
+*.apk
+*.aar
+*.iml
+*.hprof
+.idea/
+.gradle/
+/local.properties
+/*/build/
+/*/out/
+/*/*.keystore
+/*/.cxx/
+/captures/
+.externalNativeBuild/
+.navigation/
+*.jks
+
+# Common
+.DS_Store
+*.log
+*.class
+*.jar
+*.swp
+*~
