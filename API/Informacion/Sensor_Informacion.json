@@ -1,0 +1,53 @@
+[
+    {
+        "Tipo_Sesor": "Long Range (LoRa)",
+        "Mediciones": [
+            {
+                "Tipo": "Clima",
+                "Variables": "Temperatura y Humedad"
+            },
+            {
+                "Tipo": "Agua",
+                "Variables": "Salinidad"
+            },
+            {
+                "Tipo": "Aire",
+                "Variables": "Dioxido de Carbono"
+            }
+        ]
+    },
+    {
+        "Tipo_Sesor": "Bluetooth",
+        "Mediciones": [
+            {
+                "Tipo": "Clima",
+                "Variables": "Temperatura y Humedad"
+            },
+            {
+                "Tipo": "Agua",
+                "Variables": "PH y conductividad"
+            },
+            {
+                "Tipo": "Aire",
+                "Variables": "CO2"
+            }
+        ]
+    },
+    {
+        "Tipo_Sesor": "WiFi",
+        "Mediciones": [
+            {
+                "Tipo": "Clima",
+                "Variables": "Temperatura y Humedad"
+            },
+            {
+                "Tipo": "Agua",
+                "Variables": "PH y Conductividad"
+            },
+            {
+                "Tipo": "Aire",
+                "Variables": "Particulas PM2.5 y PM10"
+            }
+        ]
+    }
+]

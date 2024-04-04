@@ -1,0 +1,23 @@
+{
+    "Nombre_Comun": "Manzano",
+    "Nombre_Cientifico": "Malus domestica",
+    "Informacion_Clima":{
+        "Direccion_Viento": "",
+        "Precipitacion": "",
+        "Temperatura":"",
+        "Cobertura_Nubes":"",
+        "Presion_Atmosferica":""
+    },
+    "Informacion_Aire":{
+        "Ozono":"",
+        "Dioxido_Carbono":"",
+        "Dioxido_Nitrogeno": ""
+    },
+    "Informacion_Agua":{
+        "Salinidad": "",
+        "Nivel_Sodio":"",
+        "PH": ""
+    }
+}
+
+

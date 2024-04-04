@@ -1,0 +1,37 @@
+{
+    "id_ZonaVerde": "",
+    "Nombre_Planta": "",
+    "Fecha": "",
+    "Sensores_Clima": [
+        {
+            "id_Sensor": "",
+            "Informacion": {
+                "Direccion_Viento": "",
+                "Precipitacion": "",
+                "Temperatura": "",
+                "Cobertura_Nubes": "",
+                "Presion_Atmosferica": ""
+            }
+        }
+    ],
+    "Sensores_Aire": [
+        {
+            "id_Sensor": "",
+            "Informacion": {
+                "Ozono": "",
+                "Dioxido_Carbono": "",
+                "Dioxido_Nitrogeno": ""
+            }
+        }
+    ],
+    "Sensores_Agua": [
+        {
+            "id_Sensor": "",
+            "Informacion": {
+                "Salinidad": "",
+                "Nivel_Sodio": "",
+                "PH": ""
+            }
+        }
+    ]
+}
